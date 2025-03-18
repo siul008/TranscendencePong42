@@ -20,3 +20,9 @@ ft_transcendance is a full-stack web application designed as a modern multiplaye
 - **Logging**: ElasticSearch (Kibana), CAdvisor, Grafana, Prometheus and Node Exported
 - **Authentication**: OAuth2, JWT, Two-Factor Authentication (2FA)
 - **Containerization**: Docker
+
+## Contributors:
+- [@siul008](https://github.com/siul008)
+- [@jlefonde](https://github.com/jlefonde)
+- [@neutrou](https://github.com/neutrou)
+- [@pluieciel](https://github.com/pluieciel)
