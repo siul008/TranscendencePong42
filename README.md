@@ -1,7 +1,6 @@
 # ft_transcendance
 
-The site is hosted on pong42.lu
-
+This site is currently hosted at [Pong42.lu](https://www.pong42.lu/).
 ## Overview
 ft_transcendance is a full-stack web application designed as a modern multiplayer Pong game with authentication, chat, and matchmaking features. This project follows the 42 School guidelines and aims to provide a seamless gaming experience with real-time interactions.
 
